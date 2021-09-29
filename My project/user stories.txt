@@ -1,0 +1,5 @@
+As a beginner fisherman, I want to know what lure is best for catching trout.
+As a fisherman planning a fishing trip, I want to know what lure will best suit me for catching a walleye.
+As a fisherman fishing a river, I want a lure to catch bass.
+As a fisherman, I want to know what type of fish I might find in a stream.
+As a fisherman, I want to know if my crank bait is best for catching pan fish.

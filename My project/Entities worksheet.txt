@@ -1,0 +1,3 @@
+Lures(LureID,Name_Of_Lure, FishID)
+Fish(FishID, Name_Of_Fish,Water Id,LureID)
+Body of Water(Body_Of_WaterID, Type_Of_Water, FishID)
